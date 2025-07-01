@@ -55,12 +55,6 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
-```
-
----
-
-- O programa revela automaticamente uma célula inicial.
-- Você deve digitar as coordenadas no formato `linha,coluna` (sem espaços) para revelar novas células.
 
 Exemplo:
 
